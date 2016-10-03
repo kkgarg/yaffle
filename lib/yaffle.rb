@@ -3,3 +3,4 @@ require 'yaffle/acts_as_yaffle'
 module Yaffle
   # Your code goes here...
 end
+
